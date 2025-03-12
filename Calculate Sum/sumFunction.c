@@ -16,5 +16,5 @@ int main()
     printf("Enter number 2: ");
     scanf("%d", &y);
 
-    sum(x,y);
+    sum(x, y);
 }
